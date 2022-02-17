@@ -13,5 +13,5 @@
 #include <stdio.h>
 int main
 {
-	prinft("hello world");
+	prinft("hey world");
 }
